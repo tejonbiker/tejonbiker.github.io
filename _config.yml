@@ -1,0 +1,12 @@
+# Site settings
+title: TejonShop
+email: tejonbiker@gmail.com
+description: "Todo para tu raspberry"
+baseurl: ""
+url: "http://tejonshop.com"
+twitter_username: tejonbiker
+github_username:  tejonbiker
+
+# Build settings
+markdown: kramdown
+permalink: pretty
